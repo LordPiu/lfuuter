@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746254665386",
+    "project_id": "app-rertaurante",
+    "storage_bucket": "app-rertaurante.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746254665386:android:7c2f891e8f5eb68c2c72d3",
+        "android_client_info": {
+          "package_name": "com.example.controle_de_estoque"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6l0awr5k8ZhUgtnfjCLglX1icu-vTk2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
