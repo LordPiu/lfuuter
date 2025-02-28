@@ -31,6 +31,7 @@ migrate_working_dir/
 .pub/
 /build/
 
+
 # Symbolication related
 app.*.symbols
 
@@ -41,3 +42,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# Android Specific
+*.hprof
+android/build/
+android/app/build/
+android/.gradle/
+android/gradle/wrapper/gradle-wrapper.jar
+android/app/output/
+android/app/build/
